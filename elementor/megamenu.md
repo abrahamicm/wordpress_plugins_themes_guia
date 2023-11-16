@@ -12,3 +12,5 @@
 
 ## Activar dropdown content y darle clic al item para agregar contenido
 ![img](/images/Screenshot_198-min.png)
+
+
